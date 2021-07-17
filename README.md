@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my first project](https://reposteriavictoriaortiz.000webhostapp.com/)
 
-- 🌱 I’m currently learning **OOP**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **HTML, CSS, SCSS, Bootstrap, Git**
 
